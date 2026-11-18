@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate Front-End Developer skilled in **HTML, CSS, JavaScript, and responsive web design**.  <br>Currently pursuing **B.Tech in Computer Science with Data Science** at **Hyderabad Institute of Technology and Management, Hyderabad**.<br><br>I enjoy building modern, user-friendly, and responsive web applications while continuously learning new technologies and improving my development skills.<br><br>---<br><br> Skills<br>- Frontend Development<br>- HTML5, CSS3, JavaScript<br>- Responsive Web Design<br>- UI/UX Fundamentals<br>- Application Development.<br>-data analytics<br><br>-python<br>
+I am a passionate Front-End Developer skilled in **HTML, CSS, JavaScript, and responsive web design**.  <br>Currently pursuing **B.Tech in Computer Science with Data Science** at **Hyderabad Institute of Technology and Management, Hyderabad**.<br><br>I enjoy building modern, user-friendly, and responsive web applications while continuously learning new technologies and improving my development skills.<br><br>---<br><br> Skills<br>- Frontend Development<br>- HTML5, CSS3, JavaScript<br>- Responsive Web Design<br>- UI/UX Fundamentals<br>- Application Development.<br>-data analytics<br> <br>-python<br>
 
 
 ## 🌐 Socials:
